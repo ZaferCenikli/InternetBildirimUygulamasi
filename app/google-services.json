@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "191994885469",
+    "project_id": "deneme-257d6",
+    "storage_bucket": "deneme-257d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191994885469:android:24a776aef5a20eb55e64b4",
+        "android_client_info": {
+          "package_name": "com.first.internetbildirimuygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191994885469-j64im4bqsmm0uu3i265aqv9chujcep87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWbyFt3M5L1TPC2_hmzLGtgnk-gKY-Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191994885469-j64im4bqsmm0uu3i265aqv9chujcep87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191994885469:android:60855b8fe1709d4e5e64b4",
+        "android_client_info": {
+          "package_name": "com.first.internetbildirimuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191994885469-j64im4bqsmm0uu3i265aqv9chujcep87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWbyFt3M5L1TPC2_hmzLGtgnk-gKY-Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191994885469-j64im4bqsmm0uu3i265aqv9chujcep87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
